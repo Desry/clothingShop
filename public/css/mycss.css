@@ -1,0 +1,68 @@
+body, html {
+	height: 100%;
+	padding: 0;
+	margin: 0;
+}
+
+
+
+nav {
+	/*background-color: #ffb366;*/
+	background-color: #f8f3e6;
+}
+
+/*.item {
+	padding-bottom: 30%;
+	float: left;
+	margin: 1.66%;
+	border: 1px solid #99d6ff;
+}*/
+
+.container {
+	background-image: url("http://cdn2-www.thefashionspot.com/assets/uploads/2014/05/NLPopUp-7F.jpg");
+	background-size: cover;
+	height: 50%;
+	width: 100%;
+	background-position: center;
+  	background-repeat: no-repeat;
+}
+
+
+#storeName {
+	font-family: 'Sacramento', cursive;
+	text-align: center;
+
+}
+
+#storeWrapper {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+}
+
+
+#logo {
+	font-size: 20px;
+	font-family: 'Sacramento', cursive;
+
+}
+
+#items_wrapper {
+	/*margin-right: 100px;
+	padding: 0;*/
+	max-width: 100%;
+	margin: 0 auto;
+	padding-top: 20px;
+}
+
+.item {
+	width: 40%;
+	margin: 1.66%;
+}
+
+
+#prodName_price {
+	margin-left: 60px;
+}
