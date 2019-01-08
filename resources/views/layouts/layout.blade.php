@@ -18,17 +18,13 @@
     <script type="text/javascript" src="js/materialize.js"></script>
     <script type="text/javascript" src="js/init.js"></script>
     <script type="text/javascript" src="js/app.js"></script>
-</head>
-<body>
+
 </head>
 <body>
 
 <div id="container">
 	@yield('content')
 </div>
-
-
-
 
 </body>
 </html>
