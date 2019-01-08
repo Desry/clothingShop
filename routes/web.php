@@ -15,3 +15,6 @@ Route::get('/', function () {
     return view('index');
 });
 
+Route::get('/shop', function(){
+	return view('shop');
+});
