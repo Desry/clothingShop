@@ -9,7 +9,7 @@
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
     <link type="text/css" rel="stylesheet" href="css/materialize.css"  media="screen,projection"/>
     <link rel="stylesheet" href="css/materialize-social.css">
-    <link rel="stylesheet" href="css/font-awesome-4.7.0/css/font-awesome.css"> 	
+    <link rel="stylesheet" href="css/font-awesome-4.7.0/css/font-awesome.css"> 
     <link href="https://fonts.googleapis.com/css?family=Sacramento" rel="stylesheet"> 
     <link rel="stylesheet" type="text/css" href="css/mycss.css">
     <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
