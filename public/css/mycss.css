@@ -5,18 +5,10 @@ body, html {
 }
 
 
-
 nav {
 	/*background-color: #ffb366;*/
 	background-color: #f8f3e6;
 }
-
-/*.item {
-	padding-bottom: 30%;
-	float: left;
-	margin: 1.66%;
-	border: 1px solid #99d6ff;
-}*/
 
 .container {
 	background-image: url("http://cdn2-www.thefashionspot.com/assets/uploads/2014/05/NLPopUp-7F.jpg");
@@ -50,19 +42,34 @@ nav {
 }
 
 #items_wrapper {
-	/*margin-right: 100px;
-	padding: 0;*/
-	max-width: 100%;
-	margin: 0 auto;
-	padding-top: 20px;
+	max-width: 80%;
+	margin: 20px auto;
 }
 
 .item {
-	width: 40%;
+	width: 60%;
 	margin: 1.66%;
 }
 
+#items_desc {
+	margin-left: 100px;	
+}
 
-#prodName_price {
-	margin-left: 60px;
+#about-header {
+	text-align: center;
+	font-size: 25px;
+}
+
+#divider {
+	margin: 0 auto;
+	padding: 0;
+	width: 10%;
+	height: 1px;
+	background-color: black;
+}
+
+
+#about-body {
+	margin: 0 auto;
+	width: 800px;
 }
