@@ -14,6 +14,11 @@
     <link rel="stylesheet" type="text/css" href="css/mycss.css">
     <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
 
+
+    <!--Fonts-->
+    <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet">
+
+
     <script src='js/jquery2-1-1.js'></script>
     <script type="text/javascript" src="js/materialize.js"></script>
     <script type="text/javascript" src="js/init.js"></script>
