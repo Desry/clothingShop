@@ -20,6 +20,10 @@ class CreateOrdersTable extends Migration
         });
     }
 
+    public function order() {
+        $this->hasMany('App\Item');
+    }
+
     /**
      * Reverse the migrations.
      *

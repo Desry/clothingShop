@@ -28,6 +28,10 @@ class CreateUsersTable extends Migration
         });
     }
 
+    public function item() {
+        return $this->hasMany('App\Item');
+    }
+
     /**
      * Reverse the migrations.
      *

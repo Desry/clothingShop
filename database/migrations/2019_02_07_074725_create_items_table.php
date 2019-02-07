@@ -23,6 +23,15 @@ class CreateItemsTable extends Migration
         });
     }
 
+
+    public function user() {
+        $this->belongsToMany('App\User', 'foreign_key');
+    }
+
+    public function order() {
+        $this->belongsToMany('App\Order', 'foreign_key');
+    }
+
     /**
      * Reverse the migrations.
      *
